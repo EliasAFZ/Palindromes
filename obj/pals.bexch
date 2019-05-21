@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__pals.o
+[PROJECT FILES]
+D:\College\Fall 2018\itec-320 (ADA)\HW6\hw6.gpr
+20181111202348
+[BOUND OBJECT FILES]
+D:\College\Fall 2018\itec-320 (ADA)\HW6\obj\wordpkg.o
+D:\College\Fall 2018\itec-320 (ADA)\HW6\obj\wordpkg-palindromes.o
+D:\College\Fall 2018\itec-320 (ADA)\HW6\obj\wordpkg-wordops.o
+D:\College\Fall 2018\itec-320 (ADA)\HW6\obj\pals.o
+[GENERATED SOURCE FILES]
+b__pals.ads
+b__pals.adb
+b__pals.ali
+[RESULTING OPTIONS]
+-LD:\College\Fall 2018\itec-320 (ADA)\HW6\obj\
+-LD:\College\Fall 2018\itec-320 (ADA)\HW6\obj\
+-LD:/ide/gps/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/
+-static
+-static-libgcc
+D:/ide/gps/lib/gcc/x86_64-pc-mingw32/7.3.1/adalib/libgnat.a
+-Wl,--stack=0x2000000
